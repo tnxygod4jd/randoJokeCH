@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jokes</string>
+    <string name="jokes_activity_label">Jokes</string>
+    <string name="web_activity_label">WEB</string>
+    <string name="welcome_text">Enter count jokes for download</string>
+    <string name="warning_text">Enter count in 1 until 1000, or Chuk Norris will be upset</string>
+    <string name="load_jokes_button_text">RELOAD</string>
+    <string name="hint_text">Enter count here</string>
+</resources>
